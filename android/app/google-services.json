@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769772470848",
+    "firebase_url": "https://smarthome-f42dc-default-rtdb.firebaseio.com",
+    "project_id": "smarthome-f42dc",
+    "storage_bucket": "smarthome-f42dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769772470848:android:41580537a627c83ac095a5",
+        "android_client_info": {
+          "package_name": "com.example.mobile_computing_smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769772470848-fs3di0sr9vtin75ikgu0potfn581nltf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6zNex-0YieieAjzlgeI6uHr3jfwr0BZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769772470848-fs3di0sr9vtin75ikgu0potfn581nltf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
